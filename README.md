@@ -6,16 +6,20 @@ We followed the following instruction on this video.
 
 https://www.youtube.com/watch?v=YCyuZM454_I
 
+Then we donwloaded the following library to clone the speech to text files:
+
+https://github.com/IBM/watson-streaming-stt
+
 
 
 Requries:
 
 
-Python
-IBM watson account 
-CMD
-Coding Env (VSC e.g)
-Git
+1. Python
+2. IBM watson account 
+3. CMD
+4. Coding Env (VSC e.g)
+5. Git
 
 we followed this documnation to connect the serverr to the python code:
 
